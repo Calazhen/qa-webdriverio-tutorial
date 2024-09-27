@@ -1,0 +1,5 @@
+# Ignorar a pasta de resultados do Allure
+allure-results/
+
+# Ignorar a pasta de dependências do Node.js
+node_modules/
